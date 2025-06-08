@@ -28,6 +28,15 @@ python main.py
 - `item.py`: manejo de la espada y la llave.
 - `hud.py`: muestra la estamina y el inventario en pantalla.
 
+## Controles
+- Flechas: movimiento en las cuatro direcciones.
+- Shift: correr (consume estamina).
+- ENTER: iniciar partida desde el men\u00fa principal.
+- Esc o P: abrir el men\u00fa de pausa durante la partida.
+  - C: continuar.
+  - R: reiniciar la partida.
+  - Q: salir del juego.
+
 ## Objetivo del juego
 1. Encuentra la espada de Teseo.
 2. Derrota al Minotauro.
